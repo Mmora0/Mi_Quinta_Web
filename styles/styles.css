@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(153, 255, 255);
+}
+
+.encabezado{
+    font-style: oblique;
+
+}
+
+table{
+    background-color: rgba(243, 202, 140, 0.425);
+    border-style: dashed;
+    border-color: rgb(255, 0, 234);
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Merienda One', cursive;
+    
+}
+
+th{
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: xx-large;
+    color: darkgreen;
+}
+
+td{
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: x-large;
+    color: rgb(36, 94, 36);
+}
+
+p{
+    font-family: 'Rock Salt', cursive;
+    color: rgb(178, 34, 178);
+    text-decoration-line: underline;
+    text-decoration-color: blue
+}
+
